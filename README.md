@@ -18,4 +18,4 @@ Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i'v
 
 ## Credits
 
-The credits for this code go to [maviccprp](https://github.com/MaviccPRP/svm/blob/master/svm-primal.ipynb). ive merely created a wrapper to get people started.
+The credits for this code go to [maviccprp](https://github.com/MaviccPRP/svm/blob/master/svm-primal.ipynb). I've merely created it again and tested to get familier with myself.
